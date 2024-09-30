@@ -1,0 +1,3 @@
+# Flower-Classification
+
+Dự đoán nhãn của loài hoa là Setosa hay Virginica dựa vào chiều dài của nhị nhuỵ,etc...
